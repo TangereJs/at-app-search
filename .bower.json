@@ -1,0 +1,13 @@
+{
+  "name": "at-app-search",
+  "homepage": "https://github.com/TangereJs/at-app-search",
+  "_release": "cbf99058eb",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "cbf99058eb29827756ccdc5669fb8dbe4971d22a"
+  },
+  "_source": "git://github.com/TangereJs/at-app-search.git",
+  "_target": "master",
+  "_originalSource": "TangereJs/at-app-search"
+}
